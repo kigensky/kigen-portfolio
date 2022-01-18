@@ -1,6 +1,6 @@
 # Professional Portfolio of Victor Kigen
 This is the professional portfolio of Victor Kigen, 18 January 2022
-## By Victor Kigen
+>[Victor-Kigen](https://github.com/kigensky)
 ## Description
 Here in contains the coding portfolio of Victor Kigen. You will find a number of projects and works i have contributed too as well as working solo on to demonstrate my skill and abilities.This page can viewed at this link.
 
