@@ -4,7 +4,7 @@ This is the professional portfolio of >[Victor-Kigen](https://github.com/kigensk
 ## Description
 Here in contains the coding portfolio of Victor Kigen. You will find a number of projects and works i have contributed too as well as working solo on to demonstrate my skill and abilities.This page can viewed at this link.
 ##  Live Link  
- Click <[View Site](kigensky.github.io/kigen-portfolio/)  to visit the site
+ Click [View Site](kigensky.github.io/kigen-portfolio/)  to visit the site
 
 ## Setup/Installation Requirements
 First, clone this repository to your desktop by navigating to the desktop in the Terminal ("cd desktop") and then entering "git clone" followed by the link to this repository.
