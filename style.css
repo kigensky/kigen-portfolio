@@ -375,7 +375,7 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .flask::before{
-    width: 70%;
+    width: 30%;
 }
 .skills-content .right .angular::before{
     width: 30%;
